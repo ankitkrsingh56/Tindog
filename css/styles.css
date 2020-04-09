@@ -81,6 +81,7 @@ p {
 }
 
 .feature-box {
+  text-align: center;
   padding: 5%;
 }
 .feature-title{
@@ -99,6 +100,7 @@ p {
 #testimonials {
   background-color: #ef8172;
   color: #fff;
+  text-align: center;
 }
 
 .testimonial-image {
@@ -117,6 +119,7 @@ p {
 
 #press {
   background-color: #ef8172;
+  text-align: center;
   padding-bottom: 3%;
 }
 
@@ -128,6 +131,7 @@ p {
 /* Pricing Section */
 #pricing {
   padding: 100px;
+  text-align: center;
 }
 
 .pricing-column {
